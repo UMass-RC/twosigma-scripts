@@ -1,2 +1,3 @@
-# twosigma-scripts
-commissioning scripts to be run on every node
+# TwoSigma Deployment Scripts for Dell Nodes #
+
+Commisioning scripts to be run over the network on every dell node for deployment into OCT.
